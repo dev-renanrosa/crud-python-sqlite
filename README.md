@@ -1,4 +1,10 @@
-# 📌 CRUD em Python com SQLite
+# 📌 CRUD em Python com SQLite  
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindas-orange)
 
 Este é um projeto simples de **CRUD (Create, Read, Update, Delete)** utilizando **Python** e **SQLite**, feito como parte de estudos em programação e banco de dados.
 
