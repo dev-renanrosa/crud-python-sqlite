@@ -65,4 +65,19 @@ adicionar_usuario("Renan", "renan@email.com")
 # Listar usuários
 listar_usuarios()
 
+---
+
+## 📌 Próximos passos
+
+Algumas melhorias que podem ser implementadas futuramente neste projeto:
+
+- 🔒 Adicionar autenticação de usuários (login e senha)  
+- 🌐 Criar interface web utilizando **Flask** ou **Django**  
+- 🐳 Disponibilizar a aplicação em um container **Docker**  
+- ☁️ Integrar com um banco de dados na nuvem (ex: PostgreSQL no Heroku)  
+- 📝 Melhorar a interface de linha de comando (menus mais intuitivos)  
+- ✅ Adicionar testes automatizados (pytest)  
+
+---
+
 
