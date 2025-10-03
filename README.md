@@ -46,3 +46,17 @@ source venv/bin/activate
 5.Execute o projeto:
 python crud.py
 
+---
+
+## 📖 Exemplo de Uso
+
+```python
+from crud import adicionar_usuario, listar_usuarios
+
+# Adicionar usuário
+adicionar_usuario("Renan", "renan@email.com")
+
+# Listar usuários
+listar_usuarios()
+
+
